@@ -9,3 +9,5 @@
 
 ## Check out the preview!
 **Join discord.gg/dim to check the preview on dim**
+
+Thanks for visiting the page! I put actual effort into creating Dim and making it easy to use!
