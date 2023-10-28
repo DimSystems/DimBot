@@ -7,6 +7,8 @@
 ## Important Note:
 **All code of Dim are in the releases page! Do not download the files called Source code, Download the files called DimBotOSSRC.zip! Those files contain the actual code!**
 
+_DIM OPEN SOURCE IS NOT THE SAME AS DIM PUBLIC! DIM PUBLIC IS CLOSED SOURCED AND IT'S UNIQUE FEATURES WILL NOT BE COMING TO DIM OPEN SOURCE_
+
 ## Check out the preview!
 **Join discord.gg/dim to check the preview on dim**
 
